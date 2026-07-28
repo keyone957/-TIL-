@@ -49,7 +49,6 @@ public:
 
 시간 복잡도 ⇒ `$O(nlogn)$`
 
-
 근데 태그를 보니 단조 큐가 있길래 단조 큐에 대해서 한번 찾아봄
 
 <aside>
@@ -145,13 +144,13 @@ public:
 
 #### 우선순위 큐
 
-<img width="840" height="383" alt="Image" src="https://github.com/user-attachments/assets/81b8a016-3e66-4da4-b255-3514b5c7a9b6" />
+![image1.png](image1.png)
 
 → 들어온 값들을 저장하고 가장 큰 값이 윈도우를 벗어났을 때 제거함. 범위를 벗어난 값도 내부에 남을 수 있음 ⇒ 값을 모두 저장
 
 #### 단조 큐
 
-<img width="857" height="436" alt="Image" src="https://github.com/user-attachments/assets/b819dada-aea9-494e-89c4-52772a1a32cb" />
+![image2.png](image2.png)
 
 → 현재 윈도우 안에서 앞으로 최댓값이 될 가능성이 있는 값만 감소하는 순서로 저장함. 절대 최댓값 후보가 될 수 없는 값은 바로 제거함 ⇒ 최댓값 후보만 보관
 
@@ -170,5 +169,3 @@ public:
 - 페리또 정기 회의 
 
 - 각 페이즈 구조 설계 및 OpenFieldSystem.cs 구성  
-
-
