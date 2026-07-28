@@ -23,7 +23,7 @@ public:
 };
 ```
 
-<img width="810" height="487" alt="Image" src="https://github.com/user-attachments/assets/200212fc-adcc-4bbe-8c82-2e175c6e1563" />
+<img title="" src="image1" alt="image1" width="810" height="487">
 
 → 추가 메모리를 사용한 문제풀이
 
@@ -62,7 +62,7 @@ public:
  };
 ```
 
-<img width="811" height="478" alt="Image" src="https://github.com/user-attachments/assets/bd269ad3-3b94-43e5-99d4-35f265473e78" /> 
+<img title="" src="image2" alt="image2" width="811" height="478"> 
 
 → 투 포인터와 배열 뒤집기를 이용한 최적
 
@@ -71,5 +71,3 @@ public:
 ## 블로그 정리
 
 [LeetCode 121 Rotate Array](https://keyone957.tistory.com/29)
-
-
