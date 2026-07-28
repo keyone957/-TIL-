@@ -23,7 +23,7 @@ public:
 };
 ```
 
-<img title="" src="image1" alt="image1" width="810" height="487">
+![image1.png](image1.png)
 
 → 추가 메모리를 사용한 문제풀이
 
@@ -62,7 +62,7 @@ public:
  };
 ```
 
-<img title="" src="image2" alt="image2" width="811" height="478"> 
+![image2.png](image2.png)
 
 → 투 포인터와 배열 뒤집기를 이용한 최적
 
